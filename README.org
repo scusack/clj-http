@@ -7,6 +7,12 @@
 #+HTML_HEAD: <style type="text/css"> body {margin-right:15%; margin-left:15%;} </style>
 #+LANGUAGE: en
 
+* DON'T USE THIS REPO!
+
+  This represents a temporary hack to make an extremely old clj-http
+  release (1.0.1) work on Java8 for hitting badly configured
+  webservers.
+
 * Table of Contents                                                     :TOC:
  - [[#clj-http][clj-http]]
      - [[#installation][Installation]]
