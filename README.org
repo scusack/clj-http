@@ -7,6 +7,10 @@
 #+HTML_HEAD: <style type="text/css"> body {margin-right:15%; margin-left:15%;} </style>
 #+LANGUAGE: en
 
+* DON'T USE THIS REPO - USE THE ORIGINAL
+
+This is here for a temporary hack against a very old release (1.0.1).
+
 * Table of Contents                                                     :TOC:
  - [[#help-wanted][HELP WANTED]]
  - [[#introduction][Introduction]]
