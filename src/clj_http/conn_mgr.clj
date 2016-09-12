@@ -24,7 +24,7 @@
                          (.loadTrustMaterial nil (reify TrustStrategy
                                                    (isTrusted [_ _ _] true)))
                          (.build))
-                     (into-array String ["TLSv1"])
+                     (into-array String ["TLSv1.1"])
                      nil
                      (AllowAllHostnameVerifier.)))
 
